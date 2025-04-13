@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/imageconverter/', // Update base to match repository name
+  base: '/imageconverter/', // GitHub Pages repository name
 });
